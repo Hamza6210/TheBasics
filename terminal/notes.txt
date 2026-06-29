@@ -1,0 +1,2 @@
+Day 1 - Terminal Practice
+Learning ls, cd, pwd

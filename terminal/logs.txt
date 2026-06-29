@@ -1,0 +1,6 @@
+Connecting to database
+pipeline started
+error: connection failed
+pipeline completed
+error: timeout exceeded
+database query successful
