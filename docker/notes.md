@@ -11,3 +11,7 @@
 - Ran Postgres and connected with psql
 - Volumes: data is lost without -v, survives with it
 - Debugged a real Postgres 18 volume path error using docker logs
+- Built a custom image with a Dockerfile (FROM, WORKDIR, COPY, CMD)
+- docker build -t to create an image from a Dockerfile
+- Docker Compose: defining multi-container setups in docker-compose.yml
+- docker compose up -d and docker compose down
